@@ -1,7 +1,7 @@
 ![Backgroundppt](https://user-images.githubusercontent.com/108433878/216086817-23ffad9c-739f-4f1b-a269-850540d7d596.png)
 
 # 💫 About Me:
-I am a full stack web developer,UX/UI Designer, multimedia production technologist and social communicator. I like to integrate my knowledge to the area of development and I am constantly learning in the sea of technology 🌊.
+I am a Software Engineer, full stack web developer, UX/UI Designer, multimedia production technologist and social communicator. I like to integrate my knowledge to the area of development and I am constantly learning in the sea of technology 🌊.
 
 ## 👩‍💻 Development Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
